@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashrayy
 - 👀 I’m interested in ... Problem Solving, Gaming and Coding.
 - 🌱 I’m currently learning ... Full Stack Development
-- 💞️ I’m looking to collaborate on ... Java, Javascript, Typescript, Python, C
+- 💞️ I’m looking to collaborate on ... Java, Angular, Spring Boot, Typescript
 - 📫 How to reach me ... https://www.linkedin.com/in/ashraytrivedi/
 
 <!---
